@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **python, JavaScript, html**
 
-- 👨‍💻 All of my projects are available at [https://github.com/NandhaxD?tab=repositories](https://github.com/NandhaxD?tab=repositories)
+- 👨‍💻 All of my projects are available at **[Nandha's Projects](https://github.com/NandhaxD?tab=repositories)**
 
 - 📫 How to reach me **[Telegram Group Chat](t.me/nandhasupport)**
 
