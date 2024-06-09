@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/NandhaxD?tab=repositories](https://github.com/NandhaxD?tab=repositories)
 
-- 📫 How to reach me **nandhaxd@gmail.com**
+- 📫 How to reach me **[Telegram Group Chat](t.me/nandhasupport)**
 
 - ⚡ Fun fact **I do what I like to do...**
 
