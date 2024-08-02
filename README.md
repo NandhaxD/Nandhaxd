@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **[NandhaBots](NandhaBots.t.me)**
 
-- 🌱 I’m currently learning **python, JavaScript, html**
+- 🌱 I’m currently learning **python, JavaScript, Html, Css, C**
 
 - 👨‍💻 All of my projects are available at **[Nandha's Projects](https://github.com/NandhaxD?tab=repositories)**
 
