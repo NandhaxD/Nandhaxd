@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nandhaxd" alt="nandhaxd" /></a> </p>
 
-- 🔭 I’m currently working on **[NandhaBots](NandhaBots.t.me)**
+- 🔭 I’m currently working on **[NandhaBots](https://t.me/NandhaBots)**
 
-- 🌱 I’m currently learning **python, JavaScript, Html, Css, C**
+- 🌱 I’m currently learning **python, JavaScript, C, HTML, CSS, C**
 
 - 👨‍💻 All of my projects are available at **[Nandha's Projects](https://github.com/NandhaxD?tab=repositories)**
 
-- 📫 Reach me on: **[Telegram Group](t.me/nandhasupport)**
+- 📫 Reach me on: **[Telegram Group](https://t.me/nandhasupport)**
 
 - ⚡ Fun fact **I do what I like to do...**
 
