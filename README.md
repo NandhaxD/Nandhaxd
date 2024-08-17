@@ -1,3 +1,6 @@
+
+<img src='./gojo.webp'>
+
 <h1 align="center">Hi 👋, I'm Nandhagopal, K</h1>
 <h3 align="center">A student leaning programming from India</h3>
 
